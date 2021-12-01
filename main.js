@@ -1,5 +1,5 @@
-import Network from "./Network.js";
-import Particle from "./Particle.js";
+// import Network from "./Network.js";
+// import Particle from "./Particle.js";
 
 const canvas = document.getElementById('canvas');
 canvas.width = window.innerWidth

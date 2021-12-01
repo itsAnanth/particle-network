@@ -1,4 +1,4 @@
-import Particle from "./Particle.js";
+// import Particle from "./Particle.js";
 
 
 class Network {
@@ -54,4 +54,4 @@ class Network {
     }
 }
 
-export default Network;
+// export default Network;

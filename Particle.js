@@ -31,4 +31,4 @@ class Particle {
     }
 }
 
-export default Particle;
+// export default Particle;
