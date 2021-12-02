@@ -22,15 +22,19 @@
         }
 
         .canvas {
-            background-color: rgb(32, 31, 31);
+            background: linear-gradient(-45deg, rgb(32, 31, 31), rgb(31, 29, 29));
         }
     </style>
+    <link rel="stylesheet" href="./loader.css">
     <script src="./Particle.js" defer></script>
     <script src="./Network.js" defer></script>
     <script src="./main.js" defer></script>
 </head>
 
 <body>
+    <div id="loader_div" class="preloader">
+        <div class="loader"></div>
+    </div>
     <canvas class="canvas" id="canvas"></canvas>
 </body>
 
