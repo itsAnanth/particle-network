@@ -1,5 +1,3 @@
-// import Network from "./Network.js";
-// import Particle from "./Particle.js";
 const loader = document.getElementById('loader_div');
 setTimeout(() => loader.classList.add('opacity-0'), 2000);
 const canvas = document.getElementById('canvas');
