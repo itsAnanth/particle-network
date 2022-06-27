@@ -5,4 +5,4 @@ Simple demonstration of "constellation" particles animation using native HTML ca
 
 TODO: 
 
-* [] convert to typescript
+- [] convert to typescript
